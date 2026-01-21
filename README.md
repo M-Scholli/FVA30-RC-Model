@@ -1,11 +1,13 @@
 # FVA30-RC-Model
 A 3D printable RC Model of the FVA30 with a Wingspan of around 2m to 2.8m
 
+![Blender Model](docs/images/blender.png)
+
 ## To do
 
 ### Aerofreeze
-- [ ] select scale and wingspan
-- [ ] increase Wing Area to decrease Wingloading
+- [x] select scale and wingspan --> 1:8 and 2.1 m 
+- [x] increase Wing Area to decrease Wingloading --> add 10%
 - [ ] select Motor and Propeller
 - [ ] select Profile for Wing
 - [ ] select Profile for V-Tail
